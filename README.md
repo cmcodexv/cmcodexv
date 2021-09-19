@@ -3,4 +3,4 @@
 
 * 🚀 Desarrollador Web
 * 💻 JavaScript & PHP 
-* 🌱 Cada día se aprende algo nuevo
+
