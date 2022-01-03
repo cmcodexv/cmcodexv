@@ -1,6 +1,5 @@
 
-### ¡Hola! Soy Carlos Maradiaga 👋
-
+* 🔎 QA/Tester
 * 🚀 Desarrollador Web
 * 💻 JavaScript & PHP 
 
