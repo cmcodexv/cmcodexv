@@ -1,5 +1,5 @@
 
 * 🔎 QA/Tester
 * 🚀 Desarrollador Web
-* 💻 JavaScript & PHP 
+* 💻 C# | PHP | JavaScript
 
